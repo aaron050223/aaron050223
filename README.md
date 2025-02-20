@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello! I'm Aarón Gallardo 👋
 
-<!--
-**aaron050223/aaron050223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Aarón Gallardo Canto, I live in Cádiz and I am a student of Web Application Development. I've always liked the world of computer science and being able to study and in the future work in this field is what I like the most. 
 
-Here are some ideas to get you started:
+## More about me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 18 Years old
+- ⚽️ I love sports, especially soccer and paddle tennis.
+- 📩 E-mail → aaroongc06@gmail.com
+
+---
+
+## 💻 Lenguajes de Programación  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+## 🎨 Desarrollo Web  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔧 Herramientas   
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PYCHARM](https://img.shields.io/badge/PYCHARM-76FF03?style=for-the-badge&logo=pycharm-code&logoColor=white)
+![INTELLIJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-681C7C?style=for-the-badge&logo=pycharm-code&logoColor=white)
+
+## 📌 Proyectos   
+
+🔹 **[WEB-TURISMO](https://github.com/aaron050223/proyecto_20_enero)** - Web turistica acerca de la ciudad de Cádiz, sus tradiciones y lugares destacados.
