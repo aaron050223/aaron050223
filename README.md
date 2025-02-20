@@ -27,4 +27,4 @@ My name is Aarón Gallardo Canto, I live in Cádiz and I am a student of Web App
 
 ## 📌 Proyects 
 
-🔹 **[WEB-TURISMO](https://github.com/aaron050223/proyecto_20_enero)** - Tourist website about the city of Cadiz, its traditions and outstanding places..
+🔹 **[cadinfo](https://github.com/aaron050223/proyecto_20_enero)** - Tourist website about the city of Cadiz, its traditions and outstanding places..
