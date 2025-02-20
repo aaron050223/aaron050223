@@ -12,7 +12,7 @@ My name is Aarón Gallardo Canto, I live in Cádiz and I am a student of Web App
 
 ## 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-AE28EB?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 🎨 Web Development  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,8 +22,8 @@ My name is Aarón Gallardo Canto, I live in Cádiz and I am a student of Web App
 ### 🔧 Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PYCHARM](https://img.shields.io/badge/PYCHARM-76FF03?style=for-the-badge&logo=pycharm-code&logoColor=white)
-![INTELLIJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-681C7C?style=for-the-badge&logo=pycharm-code&logoColor=white)
+![PYCHARM](https://img.shields.io/badge/PYCHARM-DDC94?style=for-the-badge&logo=pycharm-code&logoColor=white)
+![INTELLIJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-4873DC?style=for-the-badge&logo=pycharm-code&logoColor=white)
 
 ## 📌 Proyects 
 
