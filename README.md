@@ -22,8 +22,8 @@ My name is Aarón Gallardo Canto, I live in Cádiz and I am a student of Web App
 ### 🔧 Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PYCHARM](https://img.shields.io/badge/PYCHARM-DDC94?style=for-the-badge&logo=pycharm-code&logoColor=white)
-![INTELLIJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-4873DC?style=for-the-badge&logo=pycharm-code&logoColor=white)
+![PYCHARM](https://img.shields.io/badge/PyCharm-DDC94?style=for-the-badge&logo=pycharm&logoColor=white)
+![INTELLIJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-4873DC?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 📌 Proyects 
 
