@@ -28,4 +28,4 @@ My name is Aarón Gallardo Canto, I live in Cádiz and I am a student of Web App
 ## 📌 Projects 
 
 - 🏙️ **[Cadinfo](https://github.com/aaron050223/proyecto_20_enero)** - Tourist website about the city of Cadiz, its traditions and outstanding places (without JavaScript).
-- ⚽️ **[Football Bot](https://github.com/aaron050223/Bot-Calendario-Futbol)** - Telegram bot to see things about your favorite team (in progress).
+- ⚽️ **[GolBot](https://github.com/aaron050223/Bot-Calendario-Futbol)** - Telegram bot to see things about your favorite team (in progress).
