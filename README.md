@@ -29,4 +29,4 @@ My name is Aarón Gallardo Canto, I live in Cádiz and I am a student of Web App
 
 - 🏙️ **[Cadinfo](https://github.com/aaron050223/cadinfo)** - Tourist website about the city of Cadiz, its traditions and outstanding places (without JavaScript).
 - ⚽️ **[GolBot](https://github.com/aaron050223/GolBot)** - Telegram bot to see things about your favorite team (in progress).
-- 🚢 **[Battleship](https://github.com/aaron050223/HundirLaFlota)** - Project for the classic game "Battleship" in Python (in progress).
+- 🚢 **[Battleship](https//github.com/aaron050223/HundirLaFlota)** - Project for the classic game "Battleship" in Python (in progress).
